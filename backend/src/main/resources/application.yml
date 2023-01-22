@@ -1,0 +1,7 @@
+#spring:
+#  data:
+#    mongodb:
+#      uri : mongodb+srv://yunes:oldschool@yunes.hdzmqdw.mongodb.net/?retryWrites=true&w=majority
+#      database : blogapp
+
+
